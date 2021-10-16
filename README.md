@@ -6,7 +6,7 @@ shader部分来自shadertoy，地址：https://www.shadertoy.com/view/XsVGz3，�
 
 效果截图：
 
-
+![](https://github.com/Anastasiawangyx/Threejs_Flowing_Sky/blob/main/public/flowing_sky.JPG)
 
 使用方法：
 
@@ -23,6 +23,7 @@ A flowing cloud and sky effect using three.js.
 The shader part is from shadertoy, address: https://www.shadertoy.com/view/XsVGz3 , I modified it and adapted it to three. js.
 
 Screenshot:
+![](https://github.com/Anastasiawangyx/Threejs_Flowing_Sky/blob/main/public/flowing_sky.JPG)
 
 How to use it:
 
