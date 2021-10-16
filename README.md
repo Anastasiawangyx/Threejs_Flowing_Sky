@@ -2,7 +2,7 @@
 
 一个使用three.js实现的流动的云层和天空效果。
 
-shader部分来自shadertoy，地址：https://www.shadertoy.com/view/XsVGz3，我将其修改并适配了three.js。
+shader部分来自shadertoy，地址：https://www.shadertoy.com/view/XsVGz3 ,我将其修改并适配了three.js。
 
 效果截图：
 
