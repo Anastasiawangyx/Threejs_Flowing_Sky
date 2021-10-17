@@ -11,7 +11,7 @@ shader部分来自shadertoy，地址：https://www.shadertoy.com/view/XsVGz3 ,�
 使用方法：
 
 - 将项目克隆到本地
-- <code>npm init</code>
+- <code>npm install</code>
 - <code>npm start</code>
 
 即可在本地浏览器上预览效果。
@@ -28,7 +28,7 @@ Screenshot:
 How to use it:
 
 - Clone this repo to your local computer.
-- <code>npm init</code>
+- <code>npm install</code>
 - <code>npm start</code>
 
 Then you can preview the effect on your local browser.
